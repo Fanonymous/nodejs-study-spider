@@ -10,7 +10,7 @@
 	"dependencies": {
 		"debug":   "0.7.2",
 		"cheerio": "0.12.3",
-		"request": "2.27.0",
+		"request": "2.88.0",
 		"async":   "0.2.9",
 		"mysql":   "2.x",
 		"express": "3.4.0",
